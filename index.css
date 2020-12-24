@@ -94,7 +94,7 @@ body {
     left:360px;
     width: 40%;  
     height: 0vh;
-    top:470px;
+    margin-top: 5%;
     z-index: 1;
 
 }
@@ -147,11 +147,11 @@ body {
     top: 335%;
 
 }
-.amit{
-    position:relative;
+.amit{ 
+     position:relative;
     width:350px;
     height:50px;
-    top:1860px;
+    margin-top: 123%;
     left:550px;
     font-size:30px;
     color:  #21829c;
@@ -163,7 +163,7 @@ body {
     position: absolute;
     left: 50%;
     transform: translateX(-50%);
-    top: 40000px;
+    margin-top: 126%;
     width: 990px;
     height: 500px;
     display: flex;
@@ -204,7 +204,7 @@ body {
 .moni{
     width: 750px;
     height:350px;
-    top:1800px;
+    margin-top: -5%;
     background-color:white;
     position:relative;
     margin-left:390px;
