@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="786" height="360" viewBox="0 0 786 360">
+  <defs>
+    <filter id="Rectangle_1070" x="0" y="0" width="786" height="360" filterUnits="userSpaceOnUse">
+      <feOffset dy="5" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Component_99_2" data-name="Component 99 – 2" transform="translate(9 4)">
+    <g transform="matrix(1, 0, 0, 1, -9, -4)" filter="url(#Rectangle_1070)">
+      <rect id="Rectangle_1070-2" data-name="Rectangle 1070" width="768" height="342" rx="8" transform="translate(9 4)" fill="#fff"/>
+    </g>
+    <text id="Mail_Id_:" data-name="Mail Id :" transform="translate(45 128)" fill="#1c819b" font-size="20" font-family="Roboto-Medium, Roboto" font-weight="500"><tspan x="0" y="0">Mail Id :</tspan></text>
+    <text id="Phone_no_:" data-name="Phone no :" transform="translate(45 192)" fill="#1c819b" font-size="20" font-family="Roboto-Medium, Roboto" font-weight="500"><tspan x="0" y="0">Phone no :</tspan></text>
+    <text id="Ask_Us_:_" data-name="Ask Us : " transform="translate(45 256)" fill="#1c819b" font-size="20" font-family="Roboto-Medium, Roboto" font-weight="500"><tspan x="0" y="0">Ask Us : </tspan></text>
+  </g>
+</svg>

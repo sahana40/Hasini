@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="651" height="131" viewBox="0 0 651 131">
+  <g id="Group_1705" data-name="Group 1705" transform="translate(-389 -2307)">
+    <rect id="Rectangle_1057" data-name="Rectangle 1057" width="201" height="43" rx="21.5" transform="translate(389 2395)" fill="#c0e5ea" opacity="0.4"/>
+    <rect id="Rectangle_1059" data-name="Rectangle 1059" width="201" height="43" rx="21.5" transform="translate(614 2395)" fill="#c0e5ea" opacity="0.4"/>
+    <rect id="Rectangle_1061" data-name="Rectangle 1061" width="201" height="43" rx="21.5" transform="translate(839 2395)" fill="#c0e5ea" opacity="0.4"/>
+    <text id="Hire_from_3_cities" data-name="Hire from 3 cities" transform="translate(595 2345)" fill="#1c819b" font-size="36" font-family="Roboto-Medium, Roboto" font-weight="500"><tspan x="0" y="0">Hire from 3 cities</tspan></text>
+    <text id="Visakhapatnam" transform="translate(433 2423)" fill="#1c819b" font-size="16" font-family="Roboto-Medium, Roboto" font-weight="500"><tspan x="0" y="0">Visakhapatnam</tspan></text>
+    <text id="Hyderabad" transform="translate(675 2423)" fill="#1c819b" font-size="16" font-family="Roboto-Medium, Roboto" font-weight="500"><tspan x="0" y="0">Hyderabad</tspan></text>
+    <text id="Bangalore" transform="translate(903 2423)" fill="#1c819b" font-size="16" font-family="Roboto-Medium, Roboto" font-weight="500"><tspan x="0" y="0">Bangalore</tspan></text>
+  </g>
+</svg>

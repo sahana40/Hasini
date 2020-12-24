@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1443" height="161" viewBox="0 0 1443 161">
+  <g id="Group_1700" data-name="Group 1700" transform="translate(-12541 -1951)">
+    <rect id="Rectangle_1045" data-name="Rectangle 1045" width="1443" height="161" transform="translate(12541 1951)" fill="rgba(112,112,112,0.11)"/>
+    <text id="Whom_all_can_I_hire_from_PinBlu_" data-name="Whom all can I hire from PinBlu?" transform="translate(12595 2040)" fill="#1c819b" font-size="24" font-family="Roboto-Medium, Roboto" font-weight="500"><tspan x="0" y="0">Whom all can I hire from PinBlu?</tspan></text>
+    <g id="Group_1679" data-name="Group 1679" transform="translate(12981.078 2002)">
+      <rect id="Rectangle_1046" data-name="Rectangle 1046" width="218" height="58" rx="8" transform="translate(-0.078)" fill="#f4d5f8"/>
+      <text id="Full_Time" data-name="Full Time" transform="translate(59.922 38)" fill="#1c819b" font-size="24" font-family="Roboto-Medium, Roboto" font-weight="500"><tspan x="0" y="0">Full Time</tspan></text>
+    </g>
+    <g id="Group_1680" data-name="Group 1680" transform="translate(13219.662 2002)">
+      <rect id="Rectangle_1046-2" data-name="Rectangle 1046" width="218" height="58" rx="8" transform="translate(0.338)" fill="#d5f8f5"/>
+      <text id="Part_Time" data-name="Part Time" transform="translate(57.338 38)" fill="#1c819b" font-size="24" font-family="Roboto-Medium, Roboto" font-weight="500"><tspan x="0" y="0">Part Time</tspan></text>
+    </g>
+    <g id="Group_1681" data-name="Group 1681" transform="translate(13458.246 2002)">
+      <rect id="Rectangle_1046-3" data-name="Rectangle 1046" width="218" height="58" rx="8" transform="translate(-0.246)" fill="#f8f1d5"/>
+      <text id="Ad_hoc" data-name="Ad hoc" transform="translate(70.754 38)" fill="#1c819b" font-size="24" font-family="Roboto-Medium, Roboto" font-weight="500"><tspan x="0" y="0">Ad hoc</tspan></text>
+    </g>
+  </g>
+</svg>
