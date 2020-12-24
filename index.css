@@ -94,7 +94,7 @@ body {
     left:360px;
     width: 40%;  
     height: 0vh;
-    top: 450px; 
+    top:470px;
     z-index: 1;
 
 }
@@ -104,7 +104,7 @@ body {
     left:170px ;
     width: 80%;  
     height: 0vh;
-    top: 850px; 
+    top: 110%; 
     z-index: 1; 
 }
 
@@ -113,7 +113,7 @@ body {
     position: absolute;
     left: 2%;
     transform: translateX(-100%) scale(1.4);
-    top: 1400px;
+    top: 190%;
 }
 
 .yaya {
@@ -129,14 +129,14 @@ body {
     position: absolute;
     left: 2%;
     transform: translateX(-50%) scale(1.4);
-    top: 2090px;
+    top: 280%;
 }
 
 .hasini{
     position: absolute;
     left: 380px;
     /* transform: translateX(-100%) scale(1.4); */
-    top: 2340px;
+    top: 310%;
 
 }
 
@@ -144,7 +144,7 @@ body {
     position: absolute;
     left: 500px;
     /* transform: translateX(-100%) scale(1.4); */
-    top: 2550px;
+    top: 335%;
 
 }
 .amit{
@@ -252,7 +252,7 @@ body {
     position: absolute;
     left: 45%;
     transform: translateX(-50%) scale(1.2);
-    top: 3050px;
+    top: 405%;
 }
 
 .yyz{
