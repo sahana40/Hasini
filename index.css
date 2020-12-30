@@ -90,12 +90,15 @@ body {
 }
 
 .afsheen {
-    position: absolute;
-    left:360px;
+     left:430px;
     width: 40%;  
     height: 0vh;
     margin-top: 5%;
-    z-index: 1;
+    font-weight: bold;
+    font-size: 40px;
+    color:  #21829c;
+    z-index: 1;  position: absolute;
+ 
 
 }
 
@@ -114,14 +117,18 @@ body {
     left: 2%;
     transform: translateX(-100%) scale(1.4);
     top: 190%;
+  
 }
 
 .yaya {
     position: absolute;
-    left:500px;
+    left:600px;
     width: 30%;  
     height: 0vh;
     top: 510px; 
+    font-size: 32px;
+    font-weight: bold;
+    color:  #21829c;
     z-index: 1;
 }
 
